@@ -27,6 +27,7 @@ const routes: Routes = [
     ]
   },
   {
+    //te redirecciona por defecto
     path: '',
     redirectTo: '/tabs/tab1',
     pathMatch: 'full'
